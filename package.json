@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/regepan/count-up-used-imgs#readme",
   "devDependencies": {
-    "mocha": "^6.2.2"
+    "mocha": "^7.1.0"
   },
   "dependencies": {
     "glob": "^7.1.6",
